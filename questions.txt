@@ -1,0 +1,4 @@
+What is 2+2?|4|addition,easy
+What is 5+3?|8|addition,medium
+What is 10-4?|6|subtraction,medium
+What is 7x2?|14|multiplication,hard
